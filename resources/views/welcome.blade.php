@@ -84,7 +84,7 @@
     <header>
         <div class="container">
             <div class="intro-text">
-                <div class="intro-lead-in">Concurso <h2>Emprendedores</h2></div>
+                <div class="intro-lead-in">Concurso de <h2>Innovación</h2></div>
                 @include('flash::message')
                 @if(isset($message))
                     <div class="alert alert-success alert-dismissible" role="alert">
@@ -102,7 +102,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="intro-lead-in">Concurso de Emprendedores</h2>
+                    <h2 class="intro-lead-in">Concurso de Innovación</h2>
                     <h3 class="section-subheading text-muted">Emprender Juntos y El Ministerio del Poder Popular de Economía Finanzas y Comercio Exterior, organiza cada año el Concurso de Emprendedores con el objetivo de apoyar con mentoring y formación, a través de las Becas Emprende, a todo tipo de emprendedores con talento y proyectos e ideas innovadoras que quieran ponerlas en marcha y desarrollarlas en el mundo empresarial.</h3>
                 </div>
             </div>
@@ -334,7 +334,7 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">ELIGE TU CATEGORÍA Y PARTICIPA</h2>
-                    <h3 class="section-subheading text-muted">Las descripciones proporcionadas sobre el proyecto serán publicadas literalmente en el caso de ser seleccionados como finalistas. Una vez recibidos no se admiten cambios. Los proyectos que no estén presentados con la ortografía y redacción adecuada no serán evaluados. Recomendamos revisar la información antes de enviar.</h3>
+                    <h3 class="section-subheading text-muted" style="color:#ffff">Las descripciones proporcionadas sobre el proyecto serán publicadas literalmente en el caso de ser seleccionados como finalistas. Una vez recibidos no se admiten cambios. Los proyectos que no estén presentados con la ortografía y redacción adecuada no serán evaluados. Recomendamos revisar la información antes de enviar.</h3>
                 </div>
             </div>
             <div class="row">
