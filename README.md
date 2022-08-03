@@ -117,7 +117,8 @@ nano prueba_formulario.conf
         #ServerName www.example.com
 
         ServerAdmin webmaster@localhost
-        DocumentRoot /var/www/html/inscripcionConcursoEmprendedores/public  // aquí completamos la ruta hacia donde apuntara el aplicativo por defecto que es a la carpeta public del proyecto laravel para nuestro caso seri de la siguente forma: /var/www/html/inscripcionConcursoEmprendedores/public
+        DocumentRoot /var/www/html/inscripcionConcursoEmprendedores/public
+        #aquí completamos la ruta hacia donde apuntara el aplicativo por defecto que es a la carpeta public del proyecto laravel para nuestro caso seri de la siguente forma: /var/www/html/inscripcionConcursoEmprendedores/public
 
         # Available loglevels: trace8, ..., trace1, debug, info, notice, warn,
         # error, crit, alert, emerg.
