@@ -104,8 +104,9 @@ nano prueba_formulario.conf
 
 - nos mostrara el siguiente contenido
       <VirtualHost *:80>
-        //aqui cambiamos el asterisco (*) por la ip del servidor del aplicativo que en este ejemplo seria  10.1.45.189 quedaria de la siguiente forma 
-        <VirtualHost 10.1.45.189:80>
+        #aqui cambiamos el asterisco (*) por la ip del servidor del aplicativo que en este ejemplo seria  10.1.45.189 quedaria de la siguiente forma 
+
+      <VirtualHost 10.1.45.189:80>
         # The ServerName directive sets the request scheme, hostname and port that
         # the server uses to identify itself. This is used when creating
         # redirection URLs. In the context of virtual hosts, the ServerName
@@ -116,7 +117,7 @@ nano prueba_formulario.conf
         #ServerName www.example.com
 
         ServerAdmin webmaster@localhost
-        DocumentRoot /var/www/html  // aquí completamos la ruta hacia donde apuntara el aplicativo por defecto que es a la carpeta public del proyecto laravel para nuestro caso seri de la siguente forma: /var/www/html/inscripcionConcursoEmprendedores/public
+        DocumentRoot /var/www/html/inscripcionConcursoEmprendedores/public  // aquí completamos la ruta hacia donde apuntara el aplicativo por defecto que es a la carpeta public del proyecto laravel para nuestro caso seri de la siguente forma: /var/www/html/inscripcionConcursoEmprendedores/public
 
         # Available loglevels: trace8, ..., trace1, debug, info, notice, warn,
         # error, crit, alert, emerg.
