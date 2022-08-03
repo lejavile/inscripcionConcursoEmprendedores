@@ -176,4 +176,8 @@ http:// 10.1.45.189
 
 ## ejecutar migrate Una vez Establecida la conexion con la BD esto creara la nueva tabla para la inscripcion (inscripcion_concurso)
 
+- cd /var/www/html/inscripcionConcursoEmprendedores
+
+y ejecutar 
+
 **php artisan migrate**
