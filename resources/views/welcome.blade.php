@@ -202,21 +202,21 @@
                 <h4>Plazos e Inscripción</h4><br>
                 <p>El plazo máximo para presentar los proyectos es el 31 de agosto. </p>
                 <ul>
-                    <li>Inicio de plazo para enviar las propuestas: <strong>14 de junio.</strong> </li>
-                    <li>Cierre de plazo para enviar las propuestas: <strong>hasta el 31 de agosto.</strong> </li>
-                    <li>Publicación de los finalistas: <strong>29 de septiembre.</strong> </li>
-                    <li>Cierre de votaciones: <strong>16 de octubre.</strong> </li>
-                    <li>Publicación de los ganadores: <strong>19 de octubre.</strong> </li>
+                    <li>Inicio de plazo para enviar las propuestas: <strong>3 de agosto.</strong> </li>
+                    <li>Cierre de plazo para enviar las propuestas: <strong>hasta el 30 de Septiembre.</strong> </li>
+                    <li>Publicación de los finalistas: <strong>29 de Noviembre.</strong> </li>
+                    <li>Cierre de votaciones: <strong>16 de Noviembre.</strong> </li>
+                    <li>Publicación de los ganadores: <strong>19 de Diciembre.</strong> </li>
                 </ul>
             </div>
             <div class="row text-justify">
                 <h4>Proceso de Selección</h4>
                 <ol>
                     <li>Los participantes tienen que <strong>enviar su propuesta</strong>  a través de la página de inscripción del Concurso de Emprendedores antes del 31 de agosto. Los interesados deberán enviar un documento con su proyecto desarrollado y completar un formulario electrónico con sus datos y dirección de correo electrónico, a través del que se podrán comunicar con la escuela. (Es necesario que los participantes expliquen brevemente en qué consiste su proyecto y las motivaciones y argumentos por los que creen que deben ganar el premio. Es muy importante que todos los asistentes destaquen el valor diferencial de su propuesta y qué valor aporta al mercado.)</li>
-                    <li> <strong>Primera ronda de Valoración.</strong>  El jurado, formado por El Ministerio del Poder Popular de Economía Finanzas y Comercio Exterior y las empresas colaboradoras del concurso, decidirá los proyectos <strong>finalistas</strong> . Estos serán publicados en la web el día <strong>29 de septiembre</strong>  para que sean sometidos a valoración social. </li>
-                    <li>Los finalistas deberán hacer promoción de sus proyectos a través de las redes sociales para conseguir el máximo de votos posibles hasta el <strong>16 de octubre.</strong>  </li>
+                    <li> <strong>Primera ronda de Valoración.</strong>  El jurado, formado por El Ministerio del Poder Popular de Economía Finanzas y Comercio Exterior y las empresas colaboradoras del concurso, decidirá los proyectos <strong>finalistas</strong> . Estos serán publicados en la web el día <strong>29 de Noviembre</strong>  para que sean sometidos a valoración social. </li>
+                    <li>Los finalistas deberán hacer promoción de sus proyectos a través de las redes sociales para conseguir el máximo de votos posibles hasta el <strong>16 de Noviembre.</strong>  </li>
                     <li> <strong>Segunda Ronda de Valoración.</strong>  El Jurado hará un recuento de las votaciones sociales de los proyectos y escogerá a los ganadores entre los más votados, teniendo también en cuenta criterios como <strong>la creatividad, la innovación, el uso de las nuevas tecnologías, la viabilidad, el valor social y las oportunidades de mercado y crecimiento del proyecto.  </strong> </li>
-                    <li>El Jurado hará públicos los ganadores el día 19 de octubre en la página del <a href="#services">Concurso de Emprendedores</a>  y a través de la página de Facebook y Twitter de El Ministerio del Poder Popular de Economía Finanzas y Comercio Exterior . </li>
+                    <li>El Jurado hará públicos los ganadores el día 19 de Diciembre en la página del <a href="#services">Concurso de Emprendedores</a>  y a través de la página de Facebook y Twitter de El Ministerio del Poder Popular de Economía Finanzas y Comercio Exterior . </li>
                 </ol>
             </div>
             <div class="row text-justify">
